@@ -2,6 +2,7 @@
 
   O UniDocs é um modelo de banco de dados NoSQL baseado no formato Document Store para gerenciar informações acadêmicas de uma instituição de ensino superior. Este projeto é uma extensão do modelo relacional desenvolvido no semestre anterior, adaptado para o ambiente NoSQL, garantindo flexibilidade e escalabilidade no armazenamento e consulta de dados.
 
+Banco de dados utilizado: MongoDB Atlas
 
 ## Integrantes
 <table>
