@@ -13,6 +13,10 @@
     <td>Bruna Paz</td>
     <td>22121020-6</td>
   </tr>
+    <tr>
+    <td>Cayque Cicarelli</td>
+    <td>22221005-6</td>
+  </tr>
   <tr>
     <td>Kaique Da Silva Fernandes</td>
     <td>22221011-4</td>
